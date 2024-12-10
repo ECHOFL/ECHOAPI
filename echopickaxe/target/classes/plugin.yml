@@ -1,0 +1,17 @@
+name: EchoPickaxe
+version: '${project.version}'
+main: me.fliqq.echopickaxe.EchoPickaxe
+api-version: '1.20'
+soft-depend: [EchoSql, EchoEssential]
+commands:
+   enchants:
+      description: enchants la pioche du joueur avec les enchants custom
+      aliases: ench
+      usage: /enchants <player> <enchant> <lvl>
+   sell:
+      description: vend item sac à dos
+      aliases: sellall
+   bp:
+      description: set le niveau du sac à dos 
+      aliases: [backpack, backpacks]    
+      usages: /bp <player> <lvl> 

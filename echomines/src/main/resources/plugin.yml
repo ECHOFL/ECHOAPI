@@ -1,0 +1,18 @@
+name: EchoMines
+version: '1.0.0'
+main: me.fliqq.echomines.EchoMines
+api-version: '1.20'
+prefix: 'ECHO-MINES'
+softdepend: [Worldedit, LuckPerms, EchoEssential, EchoSql, EchoPickaxe]
+authors: [Fliqqq]
+description: an echo's plugin by fliqq.
+commands:
+   region:
+      description: defini les régions
+      aliases: rg
+   mines:
+      description: defini une mine, sous class de région
+      aliases: mines
+   rgreload:
+      description: reload les regions
+      aliases: regionreload

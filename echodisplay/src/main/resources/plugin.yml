@@ -1,0 +1,9 @@
+name: EchoDisplay
+version: '${project.version}$'
+main: me.fliqq.echodisplay.EchoDisplay
+api-version: '1.20'
+prefix: 'ECHO-DISPLAY'
+softdepend: [EchoEssential, LuckPerms, Vault, PlaceholderAPI, ProtocolLib, EchoChat, PacketEvents]
+depend: [EchoSql]
+authors: [Fliqqq]
+description: an echo's plugin by fliqq.

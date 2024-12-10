@@ -1,0 +1,52 @@
+name: EchoEssential
+version: '${project.version}'
+main: me.fliqq.echoessential.EchoEssential
+api-version: '1.20'
+prefix: 'ECHO-ESSENTIALS'
+softdepend: [Worldedit, LuckPerms, PlaceholderAPI]
+authors: [Fliqqq]
+description: an echo's plugin by fliqq.
+commands:
+  time:
+    description: set time or weather
+    usage: "Usage correct : /time day/mid/night/clear"
+  fly:
+    description: active ou desactive le fly
+    usage: "Usage correct : /fly (<player>)"
+  repair:
+    description: repair l'item en main
+    usage: "Usage correct : /repair"
+  gm:
+    description: change le gamemode
+    usage: "Usage correct : /gm (<player>)"
+    aliases: [gamemode, game]
+  god:
+    description: active le godmode
+    usage: "Usage correct : /god (<player>)"
+  tp:
+    description: teleport au joueur
+    usage: "Usage correct : /tp <player>"
+  tphere:
+    description: teleport un joueur à vous
+    usage: "Usage correct : /tphere <player>"
+    aliases: teleporthere
+  spawn:
+    description: tp au spawn
+  setspawn:
+    description: set le spawn
+  speed:
+    description: set Fly Speed
+    usage: "Usage correct : /fly <vitesse> (<player>)"
+    aliases: flyspeed
+  feed:
+    description: rassasie
+  butch:
+    description: Removes entities within a certain radius
+    usage: /<command> [radius] [entityType]  
+  blockpos:
+    description: get block pos
+  glow:
+    description: remove glow
+    
+    
+    

@@ -1,0 +1,8 @@
+name: EchoPackets
+version: '${project.version}'
+main: me.fliqq.echopackets.EchoPackets
+api-version: '1.20'
+prefix: 'ECHO-PACKETS'
+softdepend: [LuckPerms,PacketEvents, EchoSql] 
+authors: [Fliqqq]
+description: an echo's plugin by fliqq shaded with PacketEvents.

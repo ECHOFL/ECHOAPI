@@ -1,0 +1,10 @@
+name: EchoCrates
+version: '0.0.1-SNAPSHOT'
+main: me.fliqq.echocrates.EchoCrates
+api-version: '1.20'
+prefix: 'ECHO-CRATES'
+authors: [Fliqqq]
+description: An echo's plugin by fliqq.
+commands:
+   crate:
+      description: crate test

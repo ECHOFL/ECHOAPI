@@ -1,0 +1,12 @@
+name: EchoDungeon
+version: '${project.version}'
+main: me.fliqq.echodungeon.EchoDungeon
+api-version: '1.20'
+prefix: 'ECHO-DUNGEON'
+authors: [Fliqqq]
+description: An echo's plugin by fliqq.
+commands:
+   dungeon:
+      description: dungeon
+   echoworld:
+      description: worldmine

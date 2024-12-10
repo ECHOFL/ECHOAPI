@@ -1,0 +1,13 @@
+me\fliqq\echopickaxe\objects\BackPacks.class
+me\fliqq\echopickaxe\objects\PPickaxes.class
+me\fliqq\echopickaxe\command\SellCommand.class
+me\fliqq\echopickaxe\listener\PickaxeListener.class
+me\fliqq\echopickaxe\listener\BpListener.class
+me\fliqq\echopickaxe\manager\PlayerEnchant.class
+me\fliqq\echopickaxe\manager\BackPacksManager.class
+me\fliqq\echopickaxe\EchoPickaxe.class
+me\fliqq\echopickaxe\listener\FetchingListener.class
+me\fliqq\echopickaxe\manager\PPickaxeManager.class
+me\fliqq\echopickaxe\EchoPickaxe$1.class
+me\fliqq\echopickaxe\command\BpCommand.class
+me\fliqq\echopickaxe\command\EnchantsCommand.class

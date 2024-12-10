@@ -1,0 +1,20 @@
+name: EchoChat
+version: '${project.version}'
+main: me.fliqq.echochat.EchoChat
+api-version: '1.20'
+prefix: 'ECHO-CHAT'
+softdepend: [LuckPerms, EchoEssential, EchoPrisonRank, EchoSql, PlaceholderAPI]
+authors: [Fliqqq]
+description: An echo's plugin by fliqq.
+commands:
+   tag:
+      description: tag command
+   chatcolor:
+      description: chatcolor command
+      aliases: cc     
+   nick:
+      description: nickname command
+      aliases: nickname     
+   items:
+      description: show item
+     

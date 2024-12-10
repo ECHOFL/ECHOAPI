@@ -1,0 +1,7 @@
+me\fliqq\echoprisonrank\enom\MineRankEnum.class
+me\fliqq\echoprisonrank\manager\RankManager.class
+me\fliqq\echoprisonrank\EchoPrisonRank$1.class
+me\fliqq\echoprisonrank\EchoPrisonRank.class
+me\fliqq\echoprisonrank\enom\RankEnum.class
+me\fliqq\echoprisonrank\command\RankCommand.class
+me\fliqq\echoprisonrank\listener\ConnectionListener.class

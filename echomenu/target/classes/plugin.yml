@@ -1,0 +1,11 @@
+name: EchoMenu
+version: '0.0.1-SNAPSHOT'
+main: me.fliqq.echomenu.EchoMenu
+api-version: '1.20'
+prefix: 'ECHO-MENU'
+softdepend: [EchoPickaxe, EchoChat, EchoSql]
+authors: [Fliqqq]
+description: An echo's plugin by fliqq.
+commands:
+   menu:
+      description: menu test

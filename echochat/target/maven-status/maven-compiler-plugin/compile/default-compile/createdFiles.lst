@@ -1,0 +1,13 @@
+me\fliqq\echochat\EchoChat$1.class
+me\fliqq\echochat\EchoChat.class
+me\fliqq\echochat\manager\ActionBar.class
+me\fliqq\echochat\listener\ConnectionListener.class
+me\fliqq\echochat\command\ChatColorCommand.class
+me\fliqq\echochat\command\TagCommand.class
+me\fliqq\echochat\manager\PlayerTag.class
+me\fliqq\echochat\manager\ChatManager.class
+me\fliqq\echochat\model\PlayerChat.class
+me\fliqq\echochat\util\ComponentUtils.class
+me\fliqq\echochat\listener\NickNameChatListener.class
+me\fliqq\echochat\command\NickNameCommand.class
+me\fliqq\echochat\listener\ChatListeners.class

@@ -1,0 +1,19 @@
+name: EchoMultiEconomy
+version: '${project.version}$'
+main: me.fliqq.echomultieconomy.EchoMultiEconomy
+api-version: '1.20'
+prefix: 'ECHO-ECONOMY'
+softdepend: [EchoEssential, LuckPerms, Vault, PlaceholderAPI]
+depend: [EchoSql]
+authors: [Fliqqq]
+description: an echo's plugin by fliqq.
+commands:
+  economy:
+    description: commande de l'economie.
+    usage: /economy <view/take/give> <player> <devise> <montant>
+    aliases: [eco, money, bal, balance]
+  check:
+    description: commande de check.
+    usage: /check <devise> <montant>
+    aliases: [withdraw, bon]
+    

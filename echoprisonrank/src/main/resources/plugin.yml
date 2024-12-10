@@ -1,0 +1,12 @@
+name: EchoPrisonRank
+version: '${project.version}'
+main: me.fliqq.echoprisonrank.EchoPrisonRank
+api-version: '1.20'
+prefix: 'ECHO-PRISONRANK'
+softdepend: [EchoEssential, EchoSql, LuckPerms, PlaceholderAPI, EchoMines]
+authors: [Fliqqq]
+description: an echo's plugin by fliqq.
+commands:
+  rank:
+    description: set mines rank
+    usage: "Usage correct : /rank set <player> <mine>"

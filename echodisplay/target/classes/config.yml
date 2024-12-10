@@ -1,0 +1,7 @@
+Tablist:
+   Header:
+      - "<gray>Joueurs en ligne:</gray> <color:#2438aa>%player_online%</color>"
+      - "2e ligne heads"
+   Footer:
+      - "<color:#ff7700>Vote et gagne des récompenses uniques !</color>"
+      - "<gray>Bienvenue</gray> <color:#3dff33>%player%</color><gray>, bon jeu sur </gray><b><color:#5c85ff>EchoPrison</color></b>"

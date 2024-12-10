@@ -1,0 +1,17 @@
+me\fliqq\echocrates\EchoCrates.class
+me\fliqq\echocrates\listener\RankCouponListener.class
+me\fliqq\echocrates\models\Crates$2.class
+me\fliqq\echocrates\models\LootAction.class
+me\fliqq\echocrates\models\AddPermissionLootAction.class
+me\fliqq\echocrates\models\RankCoupon.class
+me\fliqq\echocrates\models\AddItemLootAction.class
+me\fliqq\echocrates\models\CommandLootAction.class
+me\fliqq\echocrates\models\Crates.class
+me\fliqq\echocrates\listener\PreventRenameCrate.class
+me\fliqq\echocrates\models\CrateLoots.class
+me\fliqq\echocrates\manager\CrateManager.class
+me\fliqq\echocrates\manager\LootManager.class
+me\fliqq\echocrates\util\ComponentUtil.class
+me\fliqq\echocrates\command\CrateCommand.class
+me\fliqq\echocrates\listener\CrateInteraction.class
+me\fliqq\echocrates\models\Crates$1.class

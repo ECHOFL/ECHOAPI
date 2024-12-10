@@ -1,0 +1,3 @@
+messages:
+  join: "&a&l%player_name% &7a rejoint le serveur."
+  quit: "&c&l%player_name% &7a quitté le serveur."

@@ -1,0 +1,7 @@
+me\fliqq\echodungeon\manager\WorldManager.class
+me\fliqq\echodungeon\runnable\DungeonCreationTask.class
+me\fliqq\echodungeon\command\MineWorldCommand.class
+me\fliqq\echodungeon\manager\DungeonManager.class
+me\fliqq\echodungeon\command\DungeonCommand.class
+me\fliqq\echodungeon\EchoDungeon.class
+me\fliqq\echodungeon\model\EmptyChunkGenerator.class
